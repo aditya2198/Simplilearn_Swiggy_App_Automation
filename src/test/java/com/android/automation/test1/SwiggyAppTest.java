@@ -58,7 +58,7 @@ public class SwiggyAppTest extends TestCase{
 			DesiredCapabilities capabilties = new DesiredCapabilities();
 
 			capabilties.setCapability("platformName", "Android");
-			capabilties.setCapability("appium:deviceName", "Cajy's OnePlus 8T");
+			capabilties.setCapability("appium:deviceName", "RedmiK50i");
 			capabilties.setCapability("appium:automationName", "UiAutomator2");
 			capabilties.setCapability("appium:udid", "CE5PUKF6HMU8LRWG");
 			capabilties.setCapability("appium:app", "C:\\Users\\aavadhoo\\OneDrive - Capgemini\\Desktop\\Appium\\Swiggy Food & Grocery Delivery_4.23.2_Apkpure.apk");
