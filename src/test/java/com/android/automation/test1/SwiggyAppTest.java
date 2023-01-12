@@ -208,7 +208,7 @@ public class SwiggyAppTest extends TestCase{
 	
 	
 	@Test(priority=5)
-	public void Checkbox_Radio__Adding_Item_tc1() throws InterruptedException {
+	public void Add_To_Cart() throws InterruptedException {
 
 		System.out.println("Check able to check checkbox and radio");
 		System.out.println("Check able to add item");
